@@ -1,5 +1,8 @@
 _repo: Poems_59167
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59167-h/images/cover.jpg
 creator:
   author:
     agent_name: Millay, Edna St. Vincent
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/70
     wikipedia: http://en.wikipedia.org/wiki/Edna_St._Vincent_Millay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59167#Poems
 gutenberg_issued: '2019-03-31'
 gutenberg_type: Text
 identifiers:
